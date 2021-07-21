@@ -1,3 +1,3 @@
 # package-conf-sudo
 
-My sudo configuration
+arch packaging for my sudo configuraion, See conf-sudo
